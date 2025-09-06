@@ -1,0 +1,20 @@
+{
+  "name": "PV Token",
+  "symbol": "PVT",
+  "description": "Token for FDPT-2025",
+  "image": "https://petrovskky.github.io/pvt-metadata/pvt_logo.png",
+  "external_url": "https://petrovskky.github.io/pvt-metadata/",
+  "attributes": [
+    { "trait_type": "Type", "value": "Training Token" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://petrovskky.github.io/pvt-metadata/pvt_logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
